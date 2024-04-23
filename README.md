@@ -1,0 +1,1 @@
+# OppaCoin Token contract
